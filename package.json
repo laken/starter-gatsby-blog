@@ -26,7 +26,9 @@
     "netlify-cli": "^2.54.0"
   },
   "engines": {
-    "node": ">=14.0.0"
+    "node": "16.13.2",
+    "npm": "8.1.2",
+    "yarn": "1.22.17"
   },
   "homepage": "https://github.com/contentful/starter-gatsby-blog#readme",
   "keywords": [
